@@ -18,7 +18,7 @@
  * 
 */
 
-// out together all sections in the document into a list
+// put together all sections in the document into a list
 const sections = document.querySelectorAll('section');
 // search for the element where the navbar will be stored into
 const navMenu = document.getElementById('navbar__list');
